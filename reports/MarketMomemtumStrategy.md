@@ -58,11 +58,11 @@ Rolling Maximum and Rolling Minimum are statistical measures that represent the 
 
 
 $$
-\text{rollin_max}_t = \max(\text{High}_{t-n+1}, \text{High}_{t-n+2}, \ldots, \text{High}_t)
+\text{rollin max}_t = max ( High(t-n+1),High(t-n+2),...High(t) )
 $$
 
 $$
-\text{rollin_min}_t = \min(\text{Low}_{t-n+1}, \text{Low}_{t-n+2}, \ldots, \text{Low}_t)
+\text{rollin min}_t = max ( Low(t-n+1),Low(t-n+2),...Low(t) )
 $$
 
 
