@@ -37,7 +37,7 @@ $$
 
 ### 3.OBV Slope
 
-The OBV Slope measures the average rate of change of the OBV over the past 𝑛**n** periods. A positive slope indicates an upward trend in volume flow, while a negative slope suggests a downward trend.
+The OBV Slope measures the average rate of change of the OBV over the past **n** periods. A positive slope indicates an upward trend in volume flow, while a negative slope suggests a downward trend.
 
 Linear Regression Approach:
 
