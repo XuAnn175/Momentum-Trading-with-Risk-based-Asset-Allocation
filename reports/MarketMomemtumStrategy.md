@@ -16,7 +16,7 @@
   * Bullish Signal: When the MACD line crosses above the Signal line, indicating upward momentum.
   * Bearish Signal: When the MACD line crosses below the Signal line, indicating downward momentum.
 
-### 2.OBV (On-Balance Volume)
+### 2. OBV (On-Balance Volume)
 
 $$
 OBV_{t} =
@@ -35,7 +35,7 @@ $$
   * Positive Slope (> 0.5): Indicates strong upward momentum.
   * Negative Slope (< -0.5): Indicates strong downward momentum.
 
-### 3.OBV Slope
+### 3. OBV Slope
 
 The OBV Slope measures the average rate of change of the OBV over the past **n** periods. A positive slope indicates an upward trend in volume flow, while a negative slope suggests a downward trend.
 
@@ -55,8 +55,6 @@ Rolling Maximum and Rolling Minimum are statistical measures that represent the 
 
 **Mathematical Expression:**
 
-
-
 $$
 \text{rollin max}_t = max ( High(t-n+1),High(t-n+2),...High(t) )
 $$
@@ -64,7 +62,6 @@ $$
 $$
 \text{rollin min}_t = max ( Low(t-n+1),Low(t-n+2),...Low(t) )
 $$
-
 
 Where:
 
