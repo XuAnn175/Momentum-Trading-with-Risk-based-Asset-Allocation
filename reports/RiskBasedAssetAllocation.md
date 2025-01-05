@@ -115,10 +115,10 @@ Ensures that the total capital is not exceeded.
 
 ### **Non-Negativity:**
 
-Ensuring that holdings are non-negative.
+Ensuring that trading amount are non-negative.
 
 $$
-h_j \geq 0 \quad \forall j
+x_j \geq 0 \quad \forall j
 $$
 
 ### **Commission Constraints:**
