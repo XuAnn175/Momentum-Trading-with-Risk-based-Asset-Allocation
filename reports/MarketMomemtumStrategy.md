@@ -5,7 +5,7 @@
 * Definition: MACD is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price.
 
   $$
-  \text{MACD} =EMA_{12} - EMA_{26}
+  \text{MACD} = EMA_{12} - EMA_{26}
   $$
 * Components:
 
