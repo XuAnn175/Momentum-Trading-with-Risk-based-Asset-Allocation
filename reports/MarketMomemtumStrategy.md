@@ -5,7 +5,7 @@
 * Definition: MACD is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price.
 
   $$
-  MACD=EMA_{12} - EMA_{26}
+  \text{MACD} =EMA_{12} - EMA_{26}
   $$
 * Components:
 
@@ -42,8 +42,6 @@ The OBV Slope measures the average rate of change of the OBV over the past **n**
 Linear Regression Approach:
 
 In the provided OBV class, the slope is calculated using linear regression over the window **n**. The slope **m** is determined by fitting a line to the OBV values in the current window:
-
-
 
 $$
 m = \frac{n\sum(xy) - \sum x \sum y}{n\sum(x^2) - (\sum x)^2}
