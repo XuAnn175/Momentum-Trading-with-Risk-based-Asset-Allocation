@@ -3,7 +3,7 @@
 ![img](https://imgur.com/8PBicC0.png)
 
 1. Price Prediction using Grey Model: The GM(1,1) model generates future price predictions for Bitcoin (Chap. 3)
-2. Market Momemtum Analysis for Trading Signals Generation: Our finanacial market microstructure analysis would generate buy/sell singals.(Chap. 4)
+2. Market Momemtum Analysis for Trading Signals Generation: Our finanacial market momemtum analysis would generate buy/sell singals.(Chap. 4)
 3. Risk Based Asset Allocation: Our designed objective function optimizes the allocation of assets based on predicted returns and associated risks. (Chap. 5)
 
 # 2. Results
