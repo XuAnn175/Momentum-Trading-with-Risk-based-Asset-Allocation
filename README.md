@@ -24,7 +24,7 @@ Point of Buy and Sell is also plotted in the graph.
 
 1. For the simuation of HFT, we don't want to use the state-of-the-art ML models for price prediction,which is also meaningless if we just copy the code and get super great accuracy but without our own thought.
 2. Instead,we want to find some statistical models that can capture sophisticated pattern of price dynamics and predict the price using just a couple of caculations,which is important in HFT.
-3. Our model for predicting price movements is not simply based on buying when prices rise and selling when prices fall. Instead, it is designed to calculate expected returns and risks, serving as a tool for asset allocation purposes.The trading signals are generated from our market microstructure analysis.
+3. Our model for predicting price movements is not simply based on buying when prices rise and selling when prices fall. Instead, it is designed to calculate expected returns and risks, serving as a tool for asset allocation purposes.
 
 ## 3.1 :  What is "Grey"?
 
